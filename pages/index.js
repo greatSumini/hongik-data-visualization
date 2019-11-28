@@ -1,25 +1,20 @@
 import React from "react";
 import Head from "next/head";
 import styled from "styled-components";
+import NoSSR from "react-no-ssr";
+
+import Intro from "../src/components/templates/intro";
+import Map from "../src/components/templates/map";
+import Butterfly from "../src/components/templates/butterfly";
 
 export default function home() {
   return (
-    <div>
-      <Head>
-        <title>최고의 디자이너 윤주환</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-      <Title>최고의 동아리 CEOS</Title>
-    </div>
+    <NoSSR>
+      <div>
+        <Intro />
+        <Map />
+        <Butterfly />
+      </div>
+    </NoSSR>
   );
 }
-
-const Title = styled.h1`
-  margin: 0;
-  width: 100%;
-  padding-top: 80px;
-  line-height: 1.15;
-  font-size: 48px;
-  color: #fff;
-  text-align: center;
-`;
