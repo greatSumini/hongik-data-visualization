@@ -1,4 +1,4 @@
-[
+export default [
   {
     name: "배봉기",
     X: 1497,

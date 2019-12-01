@@ -42,12 +42,11 @@ export default class MyDocument extends Document {
     return (
       <html lang="ko">
         <Head>
-          <link rel="icon" href="/favicon.ico" />
           <link
             rel="icon"
             type="image/png"
             sizes="16x16"
-            href="/static/favicon-16x16.png"
+            href="/favicon-16x16.png"
           ></link>
           <meta
             name="viewport"

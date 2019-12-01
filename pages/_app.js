@@ -34,6 +34,9 @@ html,
           body > div:first-child{
             height: 100%;
           }
+          *, ::after, ::before {
+            box-sizing: border-box;
+        }
 `;
 
 class JuhwanApp extends App {

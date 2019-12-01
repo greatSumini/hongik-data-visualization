@@ -13,6 +13,10 @@ npm run dev
 Visit http://localhost:3000
 ```
 
+### 문제점
+
+기획이 너무 엉성함. 디자인, 기초적인 디자인 빼고 아무것도 없다고 무방할 정도. 개발자가 알아서 만들어야할 부분이 너무 많음.
+
 ### Process Schedule
 
 - 12/1 : timeline 완성. Storyboard Scrolling System 구축

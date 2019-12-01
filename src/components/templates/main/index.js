@@ -1,23 +1,22 @@
 import React, { useState } from "react";
 import styled from "styled-components";
 
-import P from "../../atoms/p";
+import Timeline from "../../timeline";
 
-export default function Map() {
+export default function Intro() {
   const [phase, setPhase] = useState(0);
 
   return (
     <Wrapper>
-      <P>지도 시작</P>
-      <P>지도 시작</P>
-      <P>지도 시작</P>
-      <P>지도 시작</P>
-      <P>지도 시작</P>
+      <Timeline />
     </Wrapper>
   );
 }
 
 const Wrapper = styled.div`
-  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  height: fit-content;
   width: 100vw;
 `;
