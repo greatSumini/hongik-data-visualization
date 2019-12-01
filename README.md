@@ -13,6 +13,15 @@ npm run dev
 Visit http://localhost:3000
 ```
 
+### Process Schedule
+
+- 12/1 : timeline 완성. Storyboard Scrolling System 구축
+- 12/3 : 영상 삽입, Media-Scroll Syncronization 완성
+- 12/5 : 나비 그리기, Component별 Styling
+- 12/6 : Component별 interaction (hover screen 포함)
+- 12/7 : Animation 세부 설정 완료
+- 12/8 : 여유 시간
+
 ### References - Animation
 
 1. https://engageinteractive.co.uk/blog/5-modern-snow-effects
