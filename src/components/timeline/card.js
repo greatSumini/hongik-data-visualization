@@ -13,7 +13,7 @@ export default function TimelineCard(props) {
         fontWeight={300}
         style={{ marginBottom: "4rem", letterSpacing: "-2.5px" }}
       >
-        {props.year}
+        {props.year === 1946 ? "1946-1990" : props.year}
       </P>
       {props.data &&
         props.data.map(v => (
@@ -52,8 +52,21 @@ export default function TimelineCard(props) {
                 lineHeight: 2,
                 letterSpacing: "-0.67px"
               }}
+              preWrap
             >
               {v.content.map(v2 => {
+                if (v2.text.length === 0) {
+                  return (
+                    <P
+                      level={3}
+                      fontWeight={300}
+                      style={{
+                        lineHeight: 2,
+                        letterSpacing: "-0.67px"
+                      }}
+                    />
+                  );
+                }
                 if (v2.hirighted) {
                   return <Hirighted>{v2.text}</Hirighted>;
                 } else {
