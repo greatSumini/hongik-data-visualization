@@ -895,6 +895,7 @@ export default {
   ],
   "1991": [
     {
+      youtube: "b81Q-z-zZ8w",
       date: "1991-08-14",
       title: "김학순 할머니, 한국 내 최초 일본군 ‘위안부’ 피해자 증언",
       content: [
@@ -1259,6 +1260,7 @@ export default {
   ],
   "2017": [
     {
+      youtube: "mYFZOdtxsIQ",
       date: "2017-07-31",
       title: "외교부, 한일 위안부 문제 합의 태스크포스 발족",
       content: [

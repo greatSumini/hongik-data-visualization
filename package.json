@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@u-wave/react-youtube": "^0.7.0",
     "@zeit/next-css": "^1.0.1",
     "@zeit/next-sass": "^1.0.1",
     "next": "9.1.3",
