@@ -3,8 +3,8 @@ import Head from "next/head";
 import styled from "styled-components";
 import NoSSR from "react-no-ssr";
 
-import Intro from "../src/components/templates/intro";
-import Main from "../src/components/templates/main";
+import Intro from "../src/components/intro";
+import Main from "../src/components/main";
 
 export default function home() {
   return (
