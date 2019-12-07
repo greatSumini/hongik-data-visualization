@@ -6,19 +6,19 @@ import ContentWrapper from "../wrapper";
 import { useScrollPosition } from "../../../scroll";
 
 const PAUSE_SECONDS = [
-  3.075,
-  5.825,
-  8.575,
-  11.325,
-  14.075,
-  18.825,
-  23.575,
-  27.325,
-  31.075,
-  34.825,
-  38.575,
-  42.325,
-  46.075
+  5.75,
+  9,
+  12.5,
+  16,
+  20.75,
+  26.25,
+  30.5,
+  35.5,
+  39.5,
+  44.25,
+  48.25,
+  52.75,
+  57.25
 ];
 const PLAYING_TIME = PAUSE_SECONDS.map((v, i) =>
   i === 0 ? v : PAUSE_SECONDS[i] - PAUSE_SECONDS[i - 1]
@@ -38,7 +38,9 @@ export default function Phase0(props) {
     if (state.playedSeconds >= PAUSE_SECONDS[yearIndex]) {
       if (playing) {
         setPlaying(false);
+        player;
         setNow(state.playedSeconds);
+        console.log(state.playedSeconds);
       }
     }
   };
@@ -52,8 +54,6 @@ export default function Phase0(props) {
       setPlaying(true);
     }
   }
-
-  console.log(now, year, PAUSE_SECONDS[year - 1933]);
 
   return (
     <ContentWrapper>
@@ -69,6 +69,7 @@ export default function Phase0(props) {
           onReady={() => console.log("im ready!")}
           onEnded={() => {}}
           onProgress={handleProgress}
+          progressInterval={100}
         />
       </Wrapper>
     </ContentWrapper>
