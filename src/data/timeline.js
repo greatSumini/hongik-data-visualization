@@ -16,10 +16,154 @@ export default {
       ]
     }
   ],
+  "1934": [
+    {
+      content: [
+        {
+          highlighted: false,
+          text: "이순덕"
+        },
+        {
+          highlighted: true,
+          text: " 만주 → 상하이"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "박대임"
+        },
+        {
+          highlighted: true,
+          text: " 중국"
+        },
+        { highlighted: false, text: "" }
+      ]
+    }
+  ],
+  "1935": [
+    {
+      content: [
+        {
+          highlighted: false,
+          text: "문명금"
+        },
+        {
+          highlighted: true,
+          text: " 헤이룽장성"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "이점례"
+        },
+        {
+          highlighted: true,
+          text: " 중국 → 싱가포르"
+        },
+        { highlighted: false, text: "" }
+      ]
+    }
+  ],
+  "1936": [
+    {
+      content: [
+        {
+          highlighted: false,
+          text: "박복순"
+        },
+        {
+          highlighted: true,
+          text: " 허베이성"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "하점연"
+        },
+        {
+          highlighted: true,
+          text: " 대만 → 하이난 → 홍콩 → 광둥 → 수마트라"
+        },
+        { highlighted: false, text: "" }
+      ]
+    }
+  ],
   "1937": [
     {
       title: "일본군 ‘위안부’ 피해 발생",
       content: [
+        {
+          highlighted: false,
+          text: "황옥임"
+        },
+        {
+          highlighted: true,
+          text: " 만주"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "장점돌"
+        },
+        {
+          highlighted: true,
+          text: " 만주 → 싱가포르"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "이옥분"
+        },
+        {
+          highlighted: true,
+          text: " 대만"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "박서운"
+        },
+        {
+          highlighted: true,
+          text: " 젠다오성"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "박분이"
+        },
+        {
+          highlighted: true,
+          text: " 일본 → 싱가포르"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "노청자"
+        },
+        {
+          highlighted: true,
+          text: " 타이위안시"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "김순덕"
+        },
+        {
+          highlighted: true,
+          text: " 상하이"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "김분선"
+        },
+        {
+          highlighted: true,
+          text: " 대만 → 필리핀"
+        },
+        { highlighted: false, text: "" },
         {
           highlighted: false,
           text: "1937년 중일전쟁을 계기로 "
@@ -41,10 +185,617 @@ export default {
       ]
     }
   ],
+  "1938": [
+    {
+      content: [
+        {
+          highlighted: false,
+          text: "김계화"
+        },
+        {
+          highlighted: true,
+          text: " 중국 → 일본"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "김상희"
+        },
+        {
+          highlighted: true,
+          text: " 중국 → 싱가포르"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "이옥분"
+        },
+        {
+          highlighted: true,
+          text: " 중국 → 대만 → 홍콩"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "김의경"
+        },
+        {
+          highlighted: true,
+          text: " 난징 → 허베이성 → 후난성"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "박위남"
+        },
+        {
+          highlighted: true,
+          text: " 중국"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "서봉임"
+        },
+        {
+          highlighted: true,
+          text: " 사이공 → 자바"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "송신도"
+        },
+        {
+          highlighted: true,
+          text: " 허베이성"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "임정자"
+        },
+        {
+          highlighted: true,
+          text: " 대만 → 홍콩 → 하이린시 → 다롄시 → 상하이 → 하얼빈시"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "한옥선"
+        },
+        {
+          highlighted: true,
+          text: " 길림성 → 타이위안시"
+        },
+        {
+          highlighted: false,
+          text: "현병숙"
+        },
+        {
+          highlighted: true,
+          text: " 랴오닝성"
+        },
+        { highlighted: false, text: "" }
+      ]
+    }
+  ],
+  "1939": [
+    {
+      content: [
+        {
+          highlighted: false,
+          text: "한도순"
+        },
+        {
+          highlighted: true,
+          text: " 만주"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "이두순"
+        },
+        {
+          highlighted: true,
+          text: " 쉬저우시"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "심미자"
+        },
+        {
+          highlighted: true,
+          text: " 일본"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "박숙이"
+        },
+        {
+          highlighted: true,
+          text: " 나고야 → 만주"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "노명선"
+        },
+        {
+          highlighted: true,
+          text: " 대만"
+        },
+        { highlighted: false, text: "" }
+      ]
+    }
+  ],
+  "1940": [
+    {
+      content: [
+        {
+          highlighted: false,
+          text: "길원옥"
+        },
+        {
+          highlighted: true,
+          text: " 헤이룽장성 → 평양 → 허베이성"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "강도아"
+        },
+        {
+          highlighted: true,
+          text: " 대만 → 인도네시아"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "공정엽"
+        },
+        {
+          highlighted: true,
+          text: " 중국 펑톈성 → 하얼빈시"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "권만례"
+        },
+        {
+          highlighted: true,
+          text: " 와카야마"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "김정순"
+        },
+        {
+          highlighted: true,
+          text: " 중국"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "문옥주"
+        },
+        {
+          highlighted: true,
+          text: " 헤이룽장성"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "박두리"
+        },
+        {
+          highlighted: true,
+          text: " 대만"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "심달연"
+        },
+        {
+          highlighted: true,
+          text: " 대만"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "이복순"
+        },
+        {
+          highlighted: true,
+          text: " 하얼빈시"
+        },
+        {
+          highlighted: false,
+          text: "이수단"
+        },
+        {
+          highlighted: true,
+          text: " 헤이룽장성"
+        },
+        {
+          highlighted: false,
+          text: " 황금자"
+        },
+        {
+          highlighted: true,
+          text: " 만주"
+        },
+        { highlighted: false, text: "" }
+      ]
+    }
+  ],
+  "1941": [
+    {
+      content: [
+        {
+          highlighted: false,
+          text: "박옥선"
+        },
+        {
+          highlighted: true,
+          text: " 헤이룽장성"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "강순애"
+        },
+        {
+          highlighted: true,
+          text: " 히로시마 → 남양군도"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "김복동"
+        },
+        {
+          highlighted: true,
+          text: " 광동 → 홍콩 → 싱가포르"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "김학순"
+        },
+        {
+          highlighted: true,
+          text: " 베이징"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "박옥련"
+        },
+        {
+          highlighted: true,
+          text: " 파푸아뉴기니"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "안점순"
+        },
+        {
+          highlighted: true,
+          text: " 몽골 → 베이징"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "윤금례"
+        },
+        {
+          highlighted: true,
+          text: " 수마트라"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "정서운"
+        },
+        {
+          highlighted: true,
+          text: " 인도네시아 자바섬"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "황금주"
+        },
+        {
+          highlighted: true,
+          text: " 만주"
+        },
+        { highlighted: false, text: "" }
+      ]
+    }
+  ],
+  "1942": [
+    {
+      content: [
+        {
+          highlighted: false,
+          text: "이옥선"
+        },
+        {
+          highlighted: true,
+          text: " 지린성"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "이옥선(2)"
+        },
+        {
+          highlighted: true,
+          text: " 투먼성"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "김군자"
+        },
+        {
+          highlighted: true,
+          text: " 지린성"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "김순옥"
+        },
+        {
+          highlighted: true,
+          text: " 헤이룽장성"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "김요지"
+        },
+        {
+          highlighted: true,
+          text: " 한구 → 해남도"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "노수복"
+        },
+        {
+          highlighted: true,
+          text: " 싱가포르 → 방콕"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "박차순"
+        },
+        {
+          highlighted: true,
+          text: " 난징시 → 한커우시 → 우창시"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "배춘희"
+        },
+        {
+          highlighted: true,
+          text: " 만주"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "이용녀"
+        },
+        {
+          highlighted: true,
+          text: " 미얀마"
+        },
+        {
+          highlighted: false,
+          text: "정윤홍"
+        },
+        {
+          highlighted: true,
+          text: " 대만"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "황선순"
+        },
+        {
+          highlighted: true,
+          text: " 나우루섬"
+        },
+        { highlighted: false, text: "" }
+      ]
+    }
+  ],
+  "1943": [
+    {
+      content: [
+        {
+          highlighted: false,
+          text: "정복수"
+        },
+        {
+          highlighted: true,
+          text: " 남양군도"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "강일출"
+        },
+        {
+          highlighted: true,
+          text: " 지린성"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "이용순"
+        },
+        {
+          highlighted: true,
+          text: " 다롄시 → 상하이 → 신주"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "김말순"
+        },
+        {
+          highlighted: true,
+          text: " 헤이룽장성"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "김우명달"
+        },
+        {
+          highlighted: true,
+          text: " 만주"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "문필기"
+        },
+        {
+          highlighted: true,
+          text: " 만주"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "유희남"
+        },
+        {
+          highlighted: true,
+          text: " 시모노세키"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "윤두리"
+        },
+        {
+          highlighted: true,
+          text: " 부산"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "이귀녀"
+        },
+        {
+          highlighted: true,
+          text: " 만주"
+        },
+        {
+          highlighted: false,
+          text: "이남이"
+        },
+        {
+          highlighted: true,
+          text: " 캄보디아 → 싱가포르"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "최선순"
+        },
+        {
+          highlighted: true,
+          text: " 일본"
+        },
+        { highlighted: false, text: "" }
+      ]
+    }
+  ],
   "1944": [
     {
       title: "일본군 ‘위안부’ 피해 발생",
       content: [
+        {
+          highlighted: false,
+          text: "하수임"
+        },
+        {
+          highlighted: true,
+          text: " 나고야"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "강덕경"
+        },
+        {
+          highlighted: true,
+          text: " 도야마"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "곽예남"
+        },
+        {
+          highlighted: true,
+          text: " 중국"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "김복선"
+        },
+        {
+          highlighted: true,
+          text: " 오사카 → 베트남 → 미얀마"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "김순악"
+        },
+        {
+          highlighted: true,
+          text: " 치치하얼시"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "배봉기"
+        },
+        {
+          highlighted: true,
+          text: " 오키나와"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "하상숙"
+        },
+        {
+          highlighted: true,
+          text: " 허베이성"
+        },
+        { highlighted: false, text: "" },
         {
           highlighted: false,
           text:
@@ -67,6 +818,24 @@ export default {
     {
       title: "광복",
       content: [
+        {
+          highlighted: false,
+          text: "지돌이"
+        },
+        {
+          highlighted: true,
+          text: " 헤이룽장성"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
+          text: "김외한"
+        },
+        {
+          highlighted: true,
+          text: " 훗카이도"
+        },
+        { highlighted: false, text: "" },
         {
           highlighted: false,
           text:
@@ -94,7 +863,7 @@ export default {
       ]
     }
   ],
-  "1946": [
+  "1946-1990": [
     {
       title: "고향으로 돌아온 위안부",
       content: [
