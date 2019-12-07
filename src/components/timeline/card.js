@@ -1,13 +1,14 @@
 import React from "react";
-import styled from "styled-components";
+import styled, { css } from "styled-components";
 
 import P from "../atoms/p";
-import { BACKGROUND_BLACK, WHITE, PRIMARY } from "../atoms/colors";
+import { WHITE, PRIMARY } from "../atoms/colors";
 
 export default function TimelineCard(props) {
   return (
-    <Wrapper>
+    <Wrapper id={props.year} selected={props.selected}>
       <P
+        onClick={props.onClick}
         level={25}
         color={PRIMARY}
         fontWeight={300}
@@ -15,9 +16,10 @@ export default function TimelineCard(props) {
       >
         {props.year === 1946 ? "1946-1990" : props.year}
       </P>
-      {props.data &&
-        props.data.map(v => (
-          <DataWrapper>
+      {props.selected &&
+        props.data &&
+        props.data.map((v, i) => (
+          <DataWrapper key={i}>
             {v.date && (
               <P
                 level={3}
@@ -67,8 +69,8 @@ export default function TimelineCard(props) {
                     />
                   );
                 }
-                if (v2.hirighted) {
-                  return <Hirighted>{v2.text}</Hirighted>;
+                if (v2.highlighted) {
+                  return <Highlighted>{v2.text}</Highlighted>;
                 } else {
                   return <Depressed>{v2.text}</Depressed>;
                 }
@@ -80,7 +82,7 @@ export default function TimelineCard(props) {
   );
 }
 
-const Hirighted = styled.strong`
+const Highlighted = styled.strong`
   font-size: 16px;
   font-weight: 500;
 `;
@@ -105,5 +107,9 @@ const Wrapper = styled.div`
   align-items: flex-start;
   width: 100%;
   height: fit-content;
-  margin-bottom: 1rem;
+  margin-bottom: -5rem;
+  padding-top: 6rem;
+  ${props => css`
+    ${!props.selected && "opacity: 0.3"};
+  `}
 `;
