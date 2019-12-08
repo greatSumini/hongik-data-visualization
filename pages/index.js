@@ -13,6 +13,7 @@ const scroll = Scroll.animateScroll;
 
 export default function home() {
   const [scrollling, setScrolling] = useState();
+  const [phase, setPhase] = useState("intro");
 
   const handleScroll = () => {
     if (window.scrollY === 0 || window.scrollY === window.innerHeight) {
@@ -46,8 +47,8 @@ export default function home() {
         }}
       >
         <Intro />
-        <Main />
-        <Ending />
+        <Main setPhase={setPhase} />
+        <Ending phase={phase} />
       </div>
     </NoSSR>
   );

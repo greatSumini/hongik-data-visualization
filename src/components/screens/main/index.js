@@ -8,7 +8,7 @@ import Phase1 from "./content/phase1";
 
 const scroll = Scroll.animateScroll;
 
-export default function Main() {
+export default function Main(props) {
   const [phase, setPhase] = useState(0);
   const [year, setYear] = useState(1933);
 
@@ -23,6 +23,7 @@ export default function Main() {
   const move = index => {
     if (index === 2020) {
       scroll.scrollTo(window.scrollY + window.innerHeight);
+      props.setPhase("ending");
       return;
     }
     let newYear = index;

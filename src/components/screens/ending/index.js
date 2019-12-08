@@ -5,7 +5,7 @@ import ReactPlayer from "react-player";
 import FadeIn from "../../fade-in";
 import { useScrollPosition } from "../../scroll";
 
-export default function Ending() {
+export default function Ending({ phase }) {
   const [playing, setPlaying] = useState(false);
   const [first, setFirst] = useState(true);
   const [now, setNow] = useState(0);
@@ -15,8 +15,12 @@ export default function Ending() {
   const ref = player => {
     setPlayer(player);
   };
-
-  if (position >= window.innerHeight * 2 + 42 * 108 && !playing) {
+  console.log(position, window.innerHeight * 2 + 42 * 108);
+  if (
+    position >= window.innerHeight * 2 + 42 * 108 &&
+    !playing &&
+    phase === "ending"
+  ) {
     if (first) {
       setPlaying(true);
       setFirst(false);
