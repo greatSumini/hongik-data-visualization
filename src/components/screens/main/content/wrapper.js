@@ -7,8 +7,12 @@ export default function ContentWrapper({ children }) {
   const scrollPosition = useScrollPosition();
   return (
     <FixedWrapper
-      position={scrollPosition}
-      style={{ bottom: Math.min(scrollPosition - window.innerHeight, 0) }}
+      style={{
+        bottom: Math.max(
+          Math.min(scrollPosition - window.innerHeight, 0),
+          scrollPosition - (window.innerHeight + 42 * 108)
+        )
+      }}
     >
       <Wrapper>{children}</Wrapper>
     </FixedWrapper>
