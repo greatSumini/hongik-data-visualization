@@ -29,7 +29,7 @@ export default function Main() {
       newYear = 1946;
     }
     newYear = Math.max(1933, Math.min(2019, newYear));
-    if (newYear > 1945) {
+    if (newYear > 1946) {
       setPhase(1);
     } else {
       setPhase(0);

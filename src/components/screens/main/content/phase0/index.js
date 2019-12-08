@@ -18,7 +18,8 @@ const START_SECONDS = [
   41.75,
   46.25,
   50.75,
-  55.25
+  55.25,
+  60
 ];
 
 const PAUSE_SECONDS = [
@@ -34,7 +35,8 @@ const PAUSE_SECONDS = [
   44.25,
   48.25,
   52.75,
-  57.25
+  57.25,
+  66
 ];
 const PLAYING_TIME = PAUSE_SECONDS.map((v, i) =>
   i === 0 ? v : PAUSE_SECONDS[i] - PAUSE_SECONDS[i - 1]
