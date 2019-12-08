@@ -36,7 +36,10 @@ export default function Point({ year, data, opacity }) {
   `;
 
   useEffect(() => {
-    setSizeRate([(window.innerWidth - 360) / 1080, window.innerHeight / 1024]);
+    setSizeRate([
+      (window.innerWidth - 500) / 940,
+      (window.innerHeight - 140) / (1024 - 140)
+    ]);
   }, []);
   return (
     <>
@@ -99,7 +102,7 @@ const Wrapper = styled.div`
       css`
         animation: ${props.glowKeyframes} ${TWINKLE_SPEED}s ease-in-out infinite;
       `}
-    left: ${(props.x - 360) * props.sizeRate[0]}px;
-    top: ${props.y * props.sizeRate[1]}px;
+    left: ${(props.x - 360) * props.sizeRate[0] + 45}px;
+    top: ${props.y * props.sizeRate[1] + 8}px;
   `}
 `;
