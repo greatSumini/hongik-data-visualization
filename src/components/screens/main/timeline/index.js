@@ -35,7 +35,7 @@ const Wrapper = styled.div`
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  padding: 0 3rem calc(100vh - 108px) 4rem;
+  padding: 0 2.1rem calc(100vh - 108px) 2.4rem;
   width: 36rem;
   background-color: ${BACKGROUND_BLACK};
 `;

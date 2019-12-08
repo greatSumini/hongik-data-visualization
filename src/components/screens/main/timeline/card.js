@@ -1,5 +1,6 @@
 import React from "react";
 import styled, { css } from "styled-components";
+import YouTube from "@u-wave/react-youtube";
 
 import P from "../../../atoms/p";
 import { WHITE, PRIMARY } from "../../../atoms/colors";
@@ -45,6 +46,12 @@ export default function TimelineCard(props) {
               >
                 {v.title}
               </P>
+            )}
+            {v.youtube && (
+              <>
+                <YouTube video={v.youtube} width="315px" height="178.3px" />
+                <div style={{ height: "24px" }} />
+              </>
             )}
             <P
               level={3}
