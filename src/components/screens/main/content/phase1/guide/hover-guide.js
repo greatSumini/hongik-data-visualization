@@ -1,29 +1,26 @@
 import React from "react";
 import styled from "styled-components";
 
-import Point from "./butterfly/point";
-import P from "../../../../atoms/p";
+import Point from "./point";
+import P from "../../../../../atoms/p";
 
 export default function HoverBoard({ isHovering }) {
   return (
     <Wrapper isHovering={isHovering}>
       <Point
-        year={9999}
+        level={2}
         data={{
-          comment: "hi",
-          x: 423,
-          y: 55
+          x: 63,
+          y: 40
         }}
-        opacity={1}
       />
-      <Point year={9999} data={{ name: "hi", x: 573, y: 55 }} opacity={1} />
+      <Point level={1} data={{ x: 213, y: 44 }} />
       <Point
-        year={9999}
+        level={0}
         data={{
-          x: 707,
-          y: 55
+          x: 345,
+          y: 45
         }}
-        opacity={1}
       />
       <P level={2} color="rgba(255, 255, 255, 0.5)">
         모든 인물정보 존재

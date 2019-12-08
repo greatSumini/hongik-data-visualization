@@ -3,8 +3,8 @@ import styled from "styled-components";
 
 import HoverGuide from "./hover-guide";
 
-import P from "../../../../atoms/p";
-import { WHITE, PRIMARY } from "../../../../atoms/colors";
+import P from "../../../../../atoms/p";
+import { WHITE, PRIMARY } from "../../../../../atoms/colors";
 
 export default function FloatingAlives({ year }) {
   const [isHovering, setHovering] = useState(false);
