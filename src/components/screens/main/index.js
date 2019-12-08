@@ -21,6 +21,10 @@ export default function Main() {
   };
 
   const move = index => {
+    if (index === 2020) {
+      scroll.scrollTo(window.scrollY + window.innerHeight);
+      return;
+    }
     let newYear = index;
     if (newYear === 1947) {
       newYear = 1991;

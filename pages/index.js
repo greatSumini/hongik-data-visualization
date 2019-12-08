@@ -6,6 +6,7 @@ import Scroll from "react-scroll";
 
 import Intro from "../src/components/screens/intro";
 import Main from "../src/components/screens/main";
+import Ending from "../src/components/screens/ending";
 import { useScrollPosition } from "../src/components/scroll";
 
 const scroll = Scroll.animateScroll;
@@ -46,6 +47,7 @@ export default function home() {
       >
         <Intro />
         <Main />
+        <Ending />
       </div>
     </NoSSR>
   );
