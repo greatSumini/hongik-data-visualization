@@ -4,7 +4,7 @@ import { PRIMARY } from "../../../../../atoms/colors";
 
 import HoverBoard from "./hover-board";
 
-const RADIUS = [5.5, 6.5, 10];
+const RADIUS = [4, 5, 9];
 const SPREAD = 5;
 const color = "255, 244, 146";
 const TWINKLE_SPEED = 6;
@@ -20,9 +20,9 @@ export default function Point({ year, data, opacity }) {
   const level = data.comment ? 2 : data.name ? 1 : 0;
 
   const LIGHT_ON = `box-shadow: 0px 0px ${RADIUS[level] *
-    5}px ${SPREAD}px rgba(${color},${TWINKLE_MAX_OPACITY});`;
+    2}px ${SPREAD}px rgba(${color},${TWINKLE_MAX_OPACITY});`;
   const LIGHT_OFF = `box-shadow: 0px 0px ${RADIUS[level] *
-    5}px ${SPREAD}px rgba(${color},${TWINKLE_MIN_OPACITY});`;
+    2}px ${SPREAD}px rgba(${color},${TWINKLE_MIN_OPACITY});`;
 
   const glowKeyframes1 = keyframes`
     0% { ${LIGHT_ON} } 
@@ -79,7 +79,6 @@ const Inner = styled.div.attrs(props => ({
   border-radius: 50%;
   background: rgba(${color}, 0.75);
   z-index: 100;
-  box-shadow: 0 0 20px 2px ${PRIMARY};
 `;
 
 const Wrapper = styled.div`
@@ -94,7 +93,7 @@ const Wrapper = styled.div`
     -ms-transition: opacity ${FADE_OUT_SPEED}s ease-in-out;
     -o-transition: opacity ${FADE_OUT_SPEED}s ease-in-out;
     opacity:${props.alive ? 1 : 0.1};
-  background: rgba(${color}, ${props.level > 0 ? 0.6 : 0.2});
+  background: rgba(${color}, ${props.level > 0 ? 0.6 : 0.4});
     width: ${RADIUS[props.level] * 2}px;
     height: ${RADIUS[props.level] * 2}px;
     ${props.level > 0 &&

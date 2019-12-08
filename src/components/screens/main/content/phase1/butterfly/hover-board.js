@@ -5,8 +5,8 @@ import P from "../../../../../atoms/p";
 import { WHITE } from "../../../../../atoms/colors";
 
 export default function HoverBoard({ radius, data, sizeRate, isHovering }) {
-  const hoverLeft = (data.x - 360) * sizeRate[0] + radius;
-  const hoverTop = data.y * sizeRate[1] + radius;
+  const hoverLeft = (data.x - 360) * sizeRate[0] + radius + 45;
+  const hoverTop = data.y * sizeRate[1] + radius + 8;
   const onRight = hoverLeft < (window.innerWidth - 360) / 2;
   const onBottom = hoverTop < window.innerHeight * 0.7;
 
