@@ -1002,9 +1002,9 @@ export default [
   {
     name: "장점돌",
 
-    x: 687,
+    x: 490,
 
-    y: 278,
+    y: 314,
 
     dead: 2011,
 
