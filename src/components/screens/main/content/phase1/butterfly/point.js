@@ -4,7 +4,7 @@ import { PRIMARY } from "../../../../../atoms/colors";
 
 import HoverBoard from "./hover-board";
 
-const RADIUS = [4, 5, 9];
+const RADIUS = [4.5, 5, 9];
 const SPREAD = 5;
 const color = "255, 244, 146";
 const TWINKLE_SPEED = 6;
