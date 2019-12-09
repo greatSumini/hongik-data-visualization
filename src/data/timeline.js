@@ -4,6 +4,15 @@ export default {
       title: "일본군 ‘위안부’ 피해 발생",
       content: [
         {
+          highlighted: true,
+          text: "최갑순"
+        },
+        {
+          highlighted: false,
+          text: " 헤이룽장성"
+        },
+        { highlighted: false, text: "" },
+        {
           highlighted: false,
           text:
             "1931년 만주사변을 일으킨 이후 일본은 침략전선을 확장해 나갔다. 그들은 점령지에 현지여성에 대한 강간 방지, 매춘에 의한 성병 예방, 그리고 병사들의 성적(性的)인 위로를 명목으로 ‘위안소’를 설치했다. 이러한 위안소에는 당시 일본의 식민지였던 조선과 대만의 여성들이 위안부로 존재했다. "
@@ -20,22 +29,23 @@ export default {
     {
       content: [
         {
-          highlighted: false,
+          highlighted: true,
           text: "이순덕"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 만주 → 상하이"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "박대임"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 중국"
         },
+        { highlighted: false, text: "" },
         { highlighted: false, text: "" }
       ]
     }
@@ -44,22 +54,23 @@ export default {
     {
       content: [
         {
-          highlighted: false,
+          highlighted: true,
           text: "문명금"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 헤이룽장성"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "이점례"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 중국 → 싱가포르"
         },
+        { highlighted: false, text: "" },
         { highlighted: false, text: "" }
       ]
     }
@@ -68,22 +79,23 @@ export default {
     {
       content: [
         {
-          highlighted: false,
+          highlighted: true,
           text: "박복순"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 허베이성"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "하점연"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 대만 → 하이난 → 홍콩 → 광둥 → 수마트라"
         },
+        { highlighted: false, text: "" },
         { highlighted: false, text: "" }
       ]
     }
@@ -93,76 +105,77 @@ export default {
       title: "일본군 ‘위안부’ 피해 발생",
       content: [
         {
-          highlighted: false,
+          highlighted: true,
           text: "황옥임"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 만주"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "장점돌"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 만주 → 싱가포르"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "이옥분"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 대만"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "박서운"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 젠다오성"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "박분이"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 일본 → 싱가포르"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "노청자"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 타이위안시"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "김순덕"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 상하이"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "김분선"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 대만 → 필리핀"
         },
+        { highlighted: false, text: "" },
         { highlighted: false, text: "" },
         {
           highlighted: false,
@@ -189,16 +202,16 @@ export default {
     {
       content: [
         {
-          highlighted: false,
+          highlighted: true,
           text: "김계화"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 중국 → 일본"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "김상희"
         },
         {
@@ -207,75 +220,78 @@ export default {
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "이옥분"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 중국 → 대만 → 홍콩"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "김의경"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 난징 → 허베이성 → 후난성"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "박위남"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 중국"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "서봉임"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 사이공 → 자바"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "송신도"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 허베이성"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "임정자"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 대만 → 홍콩 → 하이린시 → 다롄시 → 상하이 → 하얼빈시"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "한옥선"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 길림성 → 타이위안시"
         },
-        {
-          highlighted: false,
-          text: "현병숙"
-        },
+        { highlighted: false, text: "" },
         {
           highlighted: true,
+          text: "현병숙"
+        },
+        { highlighted: false, text: "" },
+        {
+          highlighted: false,
           text: " 랴오닝성"
         },
+        { highlighted: false, text: "" },
         { highlighted: false, text: "" }
       ]
     }
@@ -284,49 +300,50 @@ export default {
     {
       content: [
         {
-          highlighted: false,
+          highlighted: true,
           text: "한도순"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 만주"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "이두순"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 쉬저우시"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "심미자"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 일본"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "박숙이"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 나고야 → 만주"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "노명선"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 대만"
         },
+        { highlighted: false, text: "" },
         { highlighted: false, text: "" }
       ]
     }
@@ -335,101 +352,104 @@ export default {
     {
       content: [
         {
-          highlighted: false,
+          highlighted: true,
           text: "길원옥"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 헤이룽장성 → 평양 → 허베이성"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "강도아"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 대만 → 인도네시아"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "공정엽"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 중국 펑톈성 → 하얼빈시"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "권만례"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 와카야마"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "김정순"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 중국"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "문옥주"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 헤이룽장성"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "박두리"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 대만"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "심달연"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 대만"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "이복순"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 하얼빈시"
         },
+        { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "이수단"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 헤이룽장성"
         },
+        { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: " 황금자"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 만주"
         },
+        { highlighted: false, text: "" },
         { highlighted: false, text: "" }
       ]
     }
@@ -438,85 +458,86 @@ export default {
     {
       content: [
         {
-          highlighted: false,
+          highlighted: true,
           text: "박옥선"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 헤이룽장성"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "강순애"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 히로시마 → 남양군도"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "김복동"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 광동 → 홍콩 → 싱가포르"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "김학순"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 베이징"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "박옥련"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 파푸아뉴기니"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "안점순"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 몽골 → 베이징"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "윤금례"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 수마트라"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "정서운"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 인도네시아 자바섬"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "황금주"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 만주"
         },
+        { highlighted: false, text: "" },
         { highlighted: false, text: "" }
       ]
     }
@@ -525,100 +546,100 @@ export default {
     {
       content: [
         {
-          highlighted: false,
+          highlighted: true,
           text: "이옥선"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 지린성"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "이옥선(2)"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 투먼성"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "김군자"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 지린성"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "김순옥"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 헤이룽장성"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "김요지"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 한구 → 해남도"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "노수복"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 싱가포르 → 방콕"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "박차순"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 난징시 → 한커우시 → 우창시"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "배춘희"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 만주"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "이용녀"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 미얀마"
         },
         {
-          highlighted: false,
+          highlighted: true,
           text: "정윤홍"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 대만"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "황선순"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 나우루섬"
         },
         { highlighted: false, text: "" }
@@ -629,102 +650,103 @@ export default {
     {
       content: [
         {
-          highlighted: false,
+          highlighted: true,
           text: "정복수"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 남양군도"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "강일출"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 지린성"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "이용순"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 다롄시 → 상하이 → 신주"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "김말순"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 헤이룽장성"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "김우명달"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 만주"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "문필기"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 만주"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "유희남"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 시모노세키"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "윤두리"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 부산"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "이귀녀"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 만주"
         },
         {
-          highlighted: false,
+          highlighted: true,
           text: "이남이"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 캄보디아 → 싱가포르"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "최선순"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 일본"
         },
+        { highlighted: false, text: "" },
         { highlighted: false, text: "" }
       ]
     }
@@ -734,67 +756,68 @@ export default {
       title: "일본군 ‘위안부’ 피해 발생",
       content: [
         {
-          highlighted: false,
+          highlighted: true,
           text: "하수임"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 나고야"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "강덕경"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 도야마"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "곽예남"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 중국"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "김복선"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 오사카 → 베트남 → 미얀마"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "김순악"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 치치하얼시"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "배봉기"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 오키나와"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "하상숙"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 허베이성"
         },
+        { highlighted: false, text: "" },
         { highlighted: false, text: "" },
         {
           highlighted: false,
@@ -819,22 +842,23 @@ export default {
       title: "광복",
       content: [
         {
-          highlighted: false,
+          highlighted: true,
           text: "지돌이"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 헤이룽장성"
         },
         { highlighted: false, text: "" },
         {
-          highlighted: false,
+          highlighted: true,
           text: "김외한"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 훗카이도"
         },
+        { highlighted: false, text: "" },
         { highlighted: false, text: "" },
         {
           highlighted: false,
@@ -895,8 +919,8 @@ export default {
   ],
   "1991": [
     {
-      youtube: "b81Q-z-zZ8w",
       date: "1991-08-14",
+      youtube: "b81Q-z-zZ8w",
       title: "김학순 할머니, 한국 내 최초 일본군 ‘위안부’ 피해자 증언",
       content: [
         {
@@ -939,6 +963,7 @@ export default {
     {
       date: "1991-12-06",
       title: "도쿄지방재판소에 일본군 ‘위안부’ 문제 제소",
+      image: "/timeline/1991_(2).jpg",
       content: [
         {
           highlighted: false,
@@ -980,6 +1005,7 @@ export default {
     {
       date: "1993-07-30",
       title: "일본 정부에서 ‘군대위안부 증언청취단’ 파견",
+      image: "/timeline/1993.jpg",
       content: [
         {
           highlighted: false,
@@ -1022,6 +1048,7 @@ export default {
     {
       date: "2003-03-01",
       title: "일본 최고재판소, ‘관부재판’ 각하 결정",
+      image: "/timeline/2003_(1).jpg",
       content: [
         {
           highlighted: false,
@@ -1061,6 +1088,7 @@ export default {
     {
       date: "2003-03-28",
       title: "송신도 할머니 1993년 제소 건, 일본 최고재판소 기각",
+      image: "/timeline/2003_(2).jpg",
       content: [
         {
           highlighted: true,
@@ -1104,6 +1132,7 @@ export default {
     {
       date: "2004-11-29",
       title: "‘아시아태평양전쟁 한국인 희생자 보상청구 사건’ 소송 기각",
+      image: "/timeline/2004.jpg",
       content: [
         {
           highlighted: false,
@@ -1140,6 +1169,7 @@ export default {
     {
       date: "2007-07-05",
       title: "미국 하원, “일본군 ‘위안부’ 결의안” 만장일치 통과",
+      image: "/timeline/2007.jpg",
       content: [
         {
           highlighted: false,
@@ -1174,6 +1204,7 @@ export default {
     {
       date: "2011-10-30",
       title: "헌법재판소, 대한민국 정부의 구체적인 노력 부재 “위헌”",
+      image: "/timeline/2011.jpg",
       content: [
         {
           highlighted: false,
@@ -1212,6 +1243,7 @@ export default {
     {
       date: "2015-12-28",
       title: "한일 위안부 문제 협상 합의 타결",
+      image: "/timeline/2015.jpg",
       content: [
         {
           highlighted: false,
@@ -1260,9 +1292,9 @@ export default {
   ],
   "2017": [
     {
-      youtube: "mYFZOdtxsIQ",
       date: "2017-07-31",
       title: "외교부, 한일 위안부 문제 합의 태스크포스 발족",
+      youtube: "mYFZOdtxsIQ",
       content: [
         {
           highlighted: false,
