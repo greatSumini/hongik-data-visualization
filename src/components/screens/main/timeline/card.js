@@ -3,7 +3,7 @@ import styled, { css } from "styled-components";
 import YouTube from "@u-wave/react-youtube";
 
 import P from "../../../atoms/p";
-import { WHITE, PRIMARY } from "../../../atoms/colors";
+import { WHITE, PRIMARY, BACKGROUND_BLACK } from "../../../atoms/colors";
 
 export default function TimelineCard(props) {
   return (
@@ -53,6 +53,15 @@ export default function TimelineCard(props) {
                 <div style={{ height: "24px" }} />
               </>
             )}
+            {v.image && (
+              <>
+                <img
+                  src={v.image}
+                  style={{ width: "315px", height: "178.3px" }}
+                />
+                <div style={{ height: "24px" }} />
+              </>
+            )}
             <P
               level={3}
               color={WHITE}
@@ -67,13 +76,16 @@ export default function TimelineCard(props) {
                 if (v2.text.length === 0) {
                   return (
                     <P
+                      color={BACKGROUND_BLACK}
                       level={3}
                       fontWeight={300}
                       style={{
                         lineHeight: 2,
                         letterSpacing: "-0.67px"
                       }}
-                    />
+                    >
+                      hi
+                    </P>
                   );
                 }
                 if (v2.highlighted) {
