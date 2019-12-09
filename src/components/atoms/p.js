@@ -47,6 +47,7 @@ export default function P(props) {
 
     line-height: ${SKETCH_LINE[level] / (10 + level * 2)};
     letter-spacing: -0.56px;
+    word-break: keep-all;
     ${ellipsis &&
       `white-space: nowrap;
       text-overflow: ellipsis;
@@ -55,7 +56,7 @@ export default function P(props) {
     `}
     ${preWrap &&
       `
-    white-space: pre-wrap; word-break: keep-all;
+    white-space: pre-wrap; 
     `}
   `;
   return (
