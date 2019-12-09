@@ -5,10 +5,12 @@ import HoverGuide from "./hover-guide";
 
 import P from "../../../../../atoms/p";
 import { WHITE, PRIMARY } from "../../../../../atoms/colors";
+import { useScrollPosition } from "../../../../../scroll";
 
 export default function FloatingAlives({ year }) {
   const [isHovering, setHovering] = useState(false);
-  if (year < 1990) {
+  const position = useScrollPosition();
+  if (year < 1990 || position < window.innerHeight) {
     return <div />;
   }
   return (

@@ -5,9 +5,11 @@ import P from "../../../../atoms/p";
 import { WHITE, PRIMARY } from "../../../../atoms/colors";
 
 import AliveNum from "../../../../../data/alives";
+import { useScrollPosition } from "../../../../scroll";
 
 export default function FloatingAlives({ year }) {
-  if (year <= 1991) {
+  const position = useScrollPosition();
+  if (year <= 1991 || position < window.innerHeight) {
     return <div />;
   }
   return (
