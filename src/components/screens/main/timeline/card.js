@@ -74,19 +74,7 @@ export default function TimelineCard(props) {
             >
               {v.content.map(v2 => {
                 if (v2.text.length === 0) {
-                  return (
-                    <P
-                      color={BACKGROUND_BLACK}
-                      level={3}
-                      fontWeight={300}
-                      style={{
-                        lineHeight: 2,
-                        letterSpacing: "-0.67px"
-                      }}
-                    >
-                      hi
-                    </P>
-                  );
+                  return <br />;
                 }
                 if (v2.highlighted) {
                   return <Highlighted>{v2.text}</Highlighted>;

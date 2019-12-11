@@ -44,7 +44,7 @@ export default function HoverBoard({ radius, data, sizeRate, isHovering }) {
             level={1}
             fontWeight="regular"
             color={"rgba(255,255,255,0.7)"}
-          >{`( ~ ${data.dead || "????"})`}</P>
+          >{`( ~ ${data.dead || "현재"})`}</P>
         </RowWrapper>
         <P
           color={WHITE}
