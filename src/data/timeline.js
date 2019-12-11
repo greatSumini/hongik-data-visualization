@@ -215,7 +215,7 @@ export default {
           text: "김상희"
         },
         {
-          highlighted: true,
+          highlighted: false,
           text: " 중국 → 싱가포르"
         },
         { highlighted: false, text: "" },
@@ -286,7 +286,6 @@ export default {
           highlighted: true,
           text: "현병숙"
         },
-        { highlighted: false, text: "" },
         {
           highlighted: false,
           text: " 랴오닝성"
@@ -443,7 +442,7 @@ export default {
         { highlighted: false, text: "" },
         {
           highlighted: true,
-          text: " 황금자"
+          text: "황금자"
         },
         {
           highlighted: false,
@@ -625,6 +624,8 @@ export default {
           highlighted: false,
           text: " 미얀마"
         },
+
+        { highlighted: false, text: "" },
         {
           highlighted: true,
           text: "정윤홍"
@@ -729,6 +730,8 @@ export default {
           highlighted: false,
           text: " 만주"
         },
+
+        { highlighted: false, text: "" },
         {
           highlighted: true,
           text: "이남이"

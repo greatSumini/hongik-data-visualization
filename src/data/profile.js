@@ -1035,7 +1035,7 @@ export default [
 
     comment: "",
 
-    remarkable: [1993, 2011],
+    remarkable: "",
 
     image: "/profile/033.jpg"
   },
@@ -1056,7 +1056,7 @@ export default [
     comment:
       "너무 원통해서 지금도 내가 힘이 있고 세상이 이렇게 돼서 빽이 있고 하면 일본 놈 제일 높은 놈 끌어다가 칼로 막 내려치고 내가 죽을....한거야. 원수 갚고 죽으려고 내가 마음이 그렇다고",
 
-    remarkable: [2011],
+    remarkable: "",
 
     image: "/profile/034.jpg"
   },
@@ -1076,7 +1076,7 @@ export default [
 
     comment: "",
 
-    remarkable: [2011],
+    remarkable: "",
 
     image: "/profile/035.jpg"
   },
@@ -1096,7 +1096,7 @@ export default [
 
     comment: "",
 
-    remarkable: [2011],
+    remarkable: "",
 
     image: "/profile/036.jpg"
   },
@@ -1116,7 +1116,7 @@ export default [
 
     comment: "",
 
-    remarkable: [2011],
+    remarkable: "",
 
     image: "/profile/037.jpg"
   },
@@ -1137,7 +1137,7 @@ export default [
     comment:
       "돈 다 필요 없어. 더러운 돈 받아 뭐해? 진정으로 사죄하라 이거야. 내 청춘 돌려 놓으라 이거야.",
 
-    remarkable: [2011],
+    remarkable: "",
 
     image: "/profile/038.jpg"
   },
@@ -1157,7 +1157,7 @@ export default [
 
     comment: "",
 
-    remarkable: [2011],
+    remarkable: "",
 
     image: "/profile/039.jpg"
   },
@@ -1177,7 +1177,7 @@ export default [
 
     comment: "",
 
-    remarkable: [2011],
+    remarkable: "",
 
     image: "/profile/040.jpg"
   },
@@ -1197,7 +1197,7 @@ export default [
 
     comment: "",
 
-    remarkable: [2011],
+    remarkable: "",
 
     image: "/profile/041.jpg"
   },
@@ -1217,7 +1217,7 @@ export default [
 
     comment: "",
 
-    remarkable: [2011]
+    remarkable: ""
   },
 
   {
@@ -1236,7 +1236,7 @@ export default [
     comment:
       "고향에 가면 울 할매 묏에 가서 그냥 할매 나 안죽고 왔어하고 제일 크게 울어버리고 하루 종일 울어버리고 술이나 잡숴먹고",
 
-    remarkable: [2011],
+    remarkable: "",
 
     image: "/profile/042.jpg"
   },
@@ -1277,7 +1277,7 @@ export default [
     comment:
       "워-매 내가 아조 그런 일 저런 일 생각하믄, 밤에도 잠 안 오믄 그런 일이 눈에가 화-안 해 갖고, 하-- 내가 어찌케 그런 디서 살아 나온 것이 다행하다",
 
-    remarkable: "[2011, 2015]",
+    remarkable: "",
 
     image: "/profile/044.jpg"
   },
@@ -1298,7 +1298,7 @@ export default [
     comment:
       "우리 같은 사람 이야기를 역사 교과서에 똑바로 실어 온 국민이 다 알게 해야 한다",
 
-    remarkable: [2011, 2015],
+    remarkable: "",
 
     image: "/profile/045.jpg"
   },
@@ -1319,7 +1319,7 @@ export default [
     comment:
       "힘이 없어 당한 건데 누굴 나무라겠나. 그때 백성들은 가진 것을 모두 빼앗겼다. 일본이 여전히 우리를 얕보기 때문에 요즘도 태도가 변함이 없다",
 
-    remarkable: [2011, 2015],
+    remarkable: "",
 
     image: "/profile/046.jpg"
   },
@@ -1340,7 +1340,7 @@ export default [
     comment:
       "붉은 수수밥을 겨우 먹을 정도여서 늘 배가 몹시 고팠다. 그때 주린배를 채우려고 무를 훔쳐먹다가 주인에게 들켜서 채찍으로 열아홉 명이 몰매를 맞기도 하였다. 정말 아프고 괴로웠다.",
 
-    remarkable: [2011, 2015],
+    remarkable: "",
 
     image: "/profile/047.jpg"
   },
@@ -1361,7 +1361,7 @@ export default [
     comment:
       "하루에 40여명을 상대로 성노리개가 되어야 했고 죽지 않을 만큼 맞아서 고막이 터졌어",
 
-    remarkable: [2011, 2015],
+    remarkable: "",
 
     image: "/profile/048.jpg"
   },
@@ -1381,7 +1381,7 @@ export default [
 
     comment: "",
 
-    remarkable: [2011, 2015],
+    remarkable: "",
 
     image: "/profile/049.jpg"
   },
@@ -1402,7 +1402,7 @@ export default [
     comment:
       "내 얘기를 눈물 흘리면서 들어준 그 아이들이 그런 잔혹한 전쟁에 끌려갈 수 있다고 생각하니 최근에는 좀처럼 잠을 잘 수가 없어요. 정말 잠을 못 자요.",
 
-    remarkable: [2003, 2011, 2015],
+    remarkable: [2003],
 
     image: "/profile/050.jpg"
   },
@@ -1423,7 +1423,7 @@ export default [
     comment:
       "이대로는 도저히 눈을 감을 수가 없어. 빨리 나아야 또 일본 건너가서 싸움 한번 야무지게 할 텐데",
 
-    remarkable: [2003, 2011, 2015],
+    remarkable: [2003],
 
     image: "/profile/051.jpg"
   },
@@ -1443,7 +1443,7 @@ export default [
 
     comment: "",
 
-    remarkable: [2011, 2015],
+    remarkable: "",
 
     image: "/profile/052.jpg"
   },
@@ -1463,7 +1463,7 @@ export default [
 
     comment: "",
 
-    remarkable: [2011, 2015],
+    remarkable: "",
 
     image: "/profile/053.jpg"
   },
@@ -1483,7 +1483,7 @@ export default [
 
     comment: "",
 
-    remarkable: [2011, 2015],
+    remarkable: "",
 
     image: "/profile/054.jpg"
   },
@@ -1503,7 +1503,7 @@ export default [
 
     comment: "울기도 많이 울고, 노다지 눈물로 세월을 보냈지.",
 
-    remarkable: [2011, 2015],
+    remarkable: "",
 
     image: "/profile/055.jpg"
   },
@@ -1523,7 +1523,7 @@ export default [
 
     comment: "",
 
-    remarkable: [2011, 2015],
+    remarkable: "",
 
     image: "/profile/056.jpg"
   },
@@ -1543,7 +1543,7 @@ export default [
 
     comment: "",
 
-    remarkable: [2011, 2015],
+    remarkable: "",
 
     image: "/profile/057.jpg"
   },
@@ -1563,7 +1563,7 @@ export default [
 
     comment: "",
 
-    remarkable: [2011, 2015],
+    remarkable: "",
 
     image: "/profile/058.jpg"
   },
@@ -1584,7 +1584,7 @@ export default [
     comment:
       "목매가지고 목매가지고 죽으려고 했는데 어떻게 해가지고 그걸 들켜가지고 진짜로 맞기만 했죠. 맞기만 많이 맞았죠.",
 
-    remarkable: [2011, 2015],
+    remarkable: "",
 
     image: "/profile/059.jpg"
   },
@@ -1604,7 +1604,7 @@ export default [
 
     comment: "",
 
-    remarkable: [2011, 2015],
+    remarkable: "",
 
     image: "/profile/060.jpg"
   },
@@ -1624,7 +1624,7 @@ export default [
 
     comment: "",
 
-    remarkable: [2011, 2015],
+    remarkable: "",
 
     image: "/profile/061.jpg"
   },
@@ -1645,7 +1645,7 @@ export default [
     comment:
       "지금이라도 살아있는 할머니들에게 사죄해야 해요. 사죄를 못 하겠으면, 나를 15살 이옥선으로 그대로 되돌려놓으라고 말하고 싶어요.",
 
-    remarkable: [2011, 2015],
+    remarkable: "",
 
     image: "/profile/062.jpg"
   },
@@ -1666,7 +1666,7 @@ export default [
     comment:
       "2000년에야 귀국했는데, 나 이상의 증거가 어딨어. 그런데도 강제연행 사실이 없다니, 그들이 사람인가….",
 
-    remarkable: [2011, 2015],
+    remarkable: "",
 
     image: "/profile/063.jpg"
   },
@@ -1686,7 +1686,7 @@ export default [
 
     comment: "잘못된 역사는 감춘다고 해서 사라지는 것이 아니에요.",
 
-    remarkable: [2011, 2015],
+    remarkable: "",
 
     image: "/profile/064.jpg"
   },
@@ -1707,7 +1707,7 @@ export default [
     comment:
       "일본 사람들 여럿이 찾아와 나를 빙 둘러싸고 앉아서 '빠가야로(바보의 일본말), 네가 돈 벌고 싶어 온 거지. 우리는 강제로 데려간 적 없다'고 해서 한참을 울었어",
 
-    remarkable: [2011, 2015]
+    remarkable: ""
   },
 
   {
@@ -1725,7 +1725,7 @@ export default [
 
     comment: "",
 
-    remarkable: [2011, 2015]
+    remarkable: ""
   },
 
   {
@@ -1743,7 +1743,7 @@ export default [
 
     comment: "",
 
-    remarkable: [2011, 2015]
+    remarkable: ""
   },
 
   {
@@ -1762,7 +1762,7 @@ export default [
     comment:
       "가슴 아픈 생각을 일일이 가슴에 품고 살았으면 오늘날까지 살지도 못했어요. 그걸 다 기억하고 살았으면 아마 살질 못 했을 거에요.",
 
-    remarkable: [2011, 2015],
+    remarkable: "",
 
     image: "/profile/065.jpg"
   },
@@ -1783,7 +1783,7 @@ export default [
     comment:
       "고생을 얼마나 했는데 내는 돈이라도 받야되니더. 인제 죽을 날만 바라고 있는데 사과하는 놈 하나 없니더.",
 
-    remarkable: [2011, 2015],
+    remarkable: "",
 
     image: "/profile/066.jpg"
   },
@@ -1804,6 +1804,6 @@ export default [
     comment:
       "나라를 생각해야돼. 우리가 고생하고 정말 불꾸데에꺼정 나는 들어갔다 완 사람이, 내 후손들 절대 이렇게 안 해야돼.",
 
-    remarkable: [2011, 2015]
+    remarkable: ""
   }
 ];
