@@ -1,3 +1,9 @@
+# The truth of Japanese military sexual slavery : The Girl, Butterfly, Light
+
+This project is a submittal of the Corporate Design Studio subject in the Department of Visual Design at Hongik University.
+
+Implemented using Next.js.
+
 # 일본군 성노예제 진실의 역사 : 소녀, 나비, 빛
 
 홍익대학교 디자인학부 시각디자인학과 기업적디자인스튜디오 과목의 제출물입니다.
@@ -13,10 +19,6 @@ npm run dev
 Visit http://localhost:3000
 ```
 
-### 문제점
-
-Animating 디테일적인 기획이 많이 비어있음..
-
 ### Process Schedule
 
 - 12/1 : timeline 완성. Storyboard Scrolling System 구축
@@ -26,15 +28,16 @@ Animating 디테일적인 기획이 많이 비어있음..
 - 12/7 : Animation 세부 설정 완료
 - 12/8 : 여유 시간
 
-### References - Animation
+### References - Animations
 
-1. https://engageinteractive.co.uk/blog/5-modern-snow-effects
-2. https://www.codeameba.com/2019/06/17/tip-animation-library/
+1. intro scrolling : https://pudding.cool/2019/09/millennials/
+2. outglowing : https://codepen.io/tobyj/pen/QjvEex , https://codepen.io/cullenw/pen/vRGWdg
+3. fade out : https://codepen.io/tobyj/pen/QjvEex
+4. highlighting : https://codepen.io/mo3aser/pen/VQZQRP , https://codepen.io/Cerynna/pen/VBjMzN , https://codepen.io/alphardex/pen/XWWWBmQ
 
-### References - UI concepts
+### References - UI/UX concepts
 
-1. https://pudding.cool/2017/06/film-trends/ : 커서 올리면 정보 뜨는거
-2. https://pudding.cool/2018/11/titletowns/ : scroll reveal pannel
+https://pudding.cool/2017/01/shape-of-slavery/
 
 ### LICENSE
 
